@@ -6,7 +6,7 @@ This application allows users to generate and save notes with a title and text. 
 
 ## Application Link  
 
-[Please click here link to view application demo:](https://drive.google.com/file/d/1BM4ySFwQAMCXGqlXbVgYegw-pbw2Dy9n/view?usp=sharing)
+Heroku App: https://fasica-note-taker.herokuapp.com/notes
 
 ## Usage 
 
@@ -33,5 +33,5 @@ Copyright © 2021
 ## Questions 
 
 * Github: https://github.com/fasicasr
-* Note Taker repository: https://github.com/fasicasr/note-taker
+* Note Taker repository: https://github.com/fasicasr/hero-note-taker
 * Email: Fasicasr@gmail.com
